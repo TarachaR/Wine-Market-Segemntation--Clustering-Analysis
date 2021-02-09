@@ -28,8 +28,7 @@ The company wants to satisfy the growing local demand for specialised products a
 
 ## Understanding The Context
 
-As a Data Scientist working for the institution you have been tasked to identify factors that contribute to the death rate of cancer patients using collected dataset.
-In addition, you have also been requested to build a multiple linear regression model to predict the death rate - **"TARGET_deathRate"**. You will be required to check for the assumptions of your model as well as perform k-fold (k=10) cross-validation while challenging your solution.
+As a Data Scientist working for this company, my task is to perform wine segmentation given the provided dataset(s). The dataset(s) is the result of a chemical analysis of wines grown in the same region in Kenya but derived from three different cultivars.
 
 #### Technologies and Tools
 
@@ -44,26 +43,32 @@ In addition, you have also been requested to build a multiple linear regression 
 ---
 
 ## Project Deliverable
-Deliverable is a Python notebook with the Regression Analysis.
+Deliverable is a Python notebook with the Clustering Analysis.
 
-* Notebook name: Cancer Prediction-Regression Analysis.ipynb
+* Notebook name: Wine Market Segmentation using Cluster Analysis.ipynb
 
-**Dataset 1 name:** cancer_reg.csv
-</br>
-**Dataset 2 name:** cancer_clean.csv
+**Dataset name:** wine-clustering.csv
 
 </br>
 
-**Dataset URL:** https://bit.ly/3gJ5Jad
+**Dataset URL:** https://bit.ly/2UBJERh
 
-**Dataset Glossary Name:** regression_project_glossary.csv
-</br>
-**Dataset Glossary Download Link:** https://bit.ly/3gYSst9
+**Dataset Attributes:**
+1) Alcohol
+2) Malic acid
+3) Ash
+4) Alcalinity of ash
+5) Magnesium
+6) Total phenols
+7) Flavanoids
+8) Nonflavanoid phenols
+9) Proanthocyanins
+10)Color intensity
+11)Hue
+12)OD280/OD315 of diluted wines
+13)Proline
 
-
-**NB:** These dataset provided was aggregated from a number of sources including the American Community Survey (census.gov), clinicaltrials.gov, and cancer.gov.
-
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
+[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
