@@ -49,8 +49,6 @@ Deliverable is a Python notebook with the Clustering Analysis.
 
 **Dataset name:** wine-clustering.csv
 
-</br>
-
 **Dataset URL:** https://bit.ly/2UBJERh
 
 **Dataset Attributes:**
@@ -73,13 +71,16 @@ Deliverable is a Python notebook with the Clustering Analysis.
 ---
 
 ## Recording the Experimental Design
-1. Load dataset and libraries.
-2. Clean dataset.
-3. Carry out data analysis.
-4. Carry out data modeling.
-5. Summarize findings.
-6. Provide recommendations.
-7. Challenge the solution.
+•  Define the Research Question
+• Data Importation
+• Data Exploration
+• Data Cleaning
+• Data Analysis (Univariate and Bivariate)
+• Data Preparation
+• Data Modeling
+• Model Evaluation
+• Recommendations / Conclusion
+• Challenging your Solution
 
 While performing model selection/diagnosis, I performed the following steps in an effort to check for the following assumptions:
 
@@ -88,7 +89,7 @@ While performing model selection/diagnosis, I performed the following steps in a
 * Assess the normality of residual distribution
 * Assess multicollinearity
 
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
+[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
