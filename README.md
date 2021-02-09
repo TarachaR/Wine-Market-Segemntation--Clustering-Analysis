@@ -60,7 +60,7 @@ Deliverable is a Python notebook with the Clustering Analysis.
 6) Total phenols
 7) Flavanoids
 8) Nonflavanoid phenols
-9) Proanthocyanins
+9) Proanthocyanins <br/>
 10)Color intensity
 11)Hue
 12)OD280/OD315 of diluted wines
