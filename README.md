@@ -71,46 +71,45 @@ Deliverable is a Python notebook with the Clustering Analysis.
 ---
 
 ## Recording the Experimental Design
-•  Define the Research Question
-• Data Importation
-• Data Exploration
-• Data Cleaning
-• Data Analysis (Univariate and Bivariate)
-• Data Preparation
-• Data Modeling
-• Model Evaluation
-• Recommendations / Conclusion
-• Challenging your Solution
-
-While performing model selection/diagnosis, I performed the following steps in an effort to check for the following assumptions:
-
-* Assess the linearity of the model (parameters)
-* Assess heteroskedasticity
-* Assess the normality of residual distribution
-* Assess multicollinearity
+* Define the Research Question
+* Data Importation
+* Data Exploration
+* Data Cleaning
+* Data Analysis (Univariate and Bivariate)
+* Data Preparation
+* Data Modeling
+* Model Evaluation
+* Recommendations / Conclusion
+* Challenging your Solution
 
 [Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
 ## Summary Of Findings
-* From our analysis and modeling, it is clear that the modeling algorithm is not a good fit for our data.
+* We see that using k=3 is the best parameter to set when performing clustering on this dataset.
 
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
+[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
 ## Recommendations / Conclusions
-I would recommend the company come up with either a different research question or get a different dataset.
+While the two clustering models performed fairly well, I recommend further analysis and modeling to improve the solution until clear cluster boundaries are established.
 
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
+[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
 ## Challenging your Solution
-* While the data was correct and valid, the research question was not appropriate for it, considering it had many outliers and was hence not suitable for linear regression.
+Try out other clustering algorithms to see if they will improve the solution. Like:
 
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
+* Affinity Propagation
+* Birch Clustering
+* DBSCAN Clustering
+
+We can also try removing outliers and highly correlated variables to see if it will improve the model.
+
+[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
@@ -119,4 +118,4 @@ I would recommend the company come up with either a different research question 
 - Twitter - https://twitter.com/Vycellous_Drum
 - Website - https://richardtaracha.glitch.me/
 
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
+[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
