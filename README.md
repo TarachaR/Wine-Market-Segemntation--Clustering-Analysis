@@ -1,4 +1,4 @@
-# Wine-Segemntation--Clustering-Analysis
+# Wine Market Segmentation using Clustering Analysis
 ---
 
 > Author: Richard Taracha
@@ -25,9 +25,6 @@
 Champagne Company is a leading wine company that specialises in the importation and distribution of premium and super-premium wines, champagnes and spirits within the East African region. The main goal of the company is to make the most exclusive brands of wine more accessible at an affordable price.
 
 The company wants to satisfy the growing local demand for specialised products and the ever-increasing tourism industry where guests don ́t want to settle for less.
-</br>
-</br>
-Website: https://aci.org.za/
 
 ## Understanding The Context
 
@@ -42,7 +39,7 @@ In addition, you have also been requested to build a multiple linear regression 
 - Matplotlib
 - Scikit-Learn
 
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
+[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
