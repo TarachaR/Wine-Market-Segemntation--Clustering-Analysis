@@ -6,7 +6,7 @@
 > Date: 09/02/2021
 <!-- Alignment options!!!!! -->
 <!-- <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157052122-4ee576cf-9a9a-4bc6-8a0f-c0eed0c67e75.gif"> -->
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157052122-4ee576cf-9a9a-4bc6-8a0f-c0eed0c67e75.gif">
+<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif">
 
 <!-- ![26022-loading-wine](https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif) -->
 
