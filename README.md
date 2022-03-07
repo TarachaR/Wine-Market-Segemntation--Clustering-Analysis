@@ -5,7 +5,10 @@
 
 > Date: 09/02/2021
 
-![26022-loading-wine](https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif)
+<!-- Alignment options!!!!! -->
+<img align="left" width="100" height="100" src="https://lottiefiles.com/26022-loading-wine">
+
+<!-- ![26022-loading-wine](https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif) -->
 
 ---
 
