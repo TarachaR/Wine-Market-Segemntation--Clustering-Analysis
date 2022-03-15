@@ -33,7 +33,7 @@ The company wants to satisfy the growing local demand for specialised products a
 
 As a Data Scientist working for this company, my task is to perform wine segmentation given the provided dataset(s). The dataset(s) is the result of a chemical analysis of wines grown in the same region in Kenya but derived from three different cultivars.
 
-#### Technologies and Tools
+#### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158460676-7352afe1-8cda-4eab-9e6c-d2b76452b7f2.png">Technologies and Tools
 
 - Python
 - Pandas
