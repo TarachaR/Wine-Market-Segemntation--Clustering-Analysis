@@ -24,7 +24,7 @@
 
 ---
 
-## Background Information
+## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158460288-d582eabe-0f82-421b-973f-ca0801cb0e9a.png">Background Information
 Champagne Company is a leading wine company that specialises in the importation and distribution of premium and super-premium wines, champagnes and spirits within the East African region. The main goal of the company is to make the most exclusive brands of wine more accessible at an affordable price.
 
 The company wants to satisfy the growing local demand for specialised products and the ever-increasing tourism industry where guests don ́t want to settle for less.
