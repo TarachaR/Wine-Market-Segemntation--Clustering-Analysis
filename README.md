@@ -12,7 +12,7 @@
 
 ---
 
->  ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158458374-ba186298-d2d1-4939-95ba-18f2724ab321.png"> Table of Contents
+### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158458374-ba186298-d2d1-4939-95ba-18f2724ab321.png"> Table of Contents
 - [Background Information](#background-information)
 - [Understanding The Context](#understanding-the-context)
 - [Project Deliverable](#project-deliverable)
@@ -29,7 +29,7 @@ Champagne Company is a leading wine company that specialises in the importation 
 
 The company wants to satisfy the growing local demand for specialised products and the ever-increasing tourism industry where guests don ́t want to settle for less.
 
-## Understanding The Context
+## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158460676-7352afe1-8cda-4eab-9e6c-d2b76452b7f2.png">Understanding The Context
 
 As a Data Scientist working for this company, my task is to perform wine segmentation given the provided dataset(s). The dataset(s) is the result of a chemical analysis of wines grown in the same region in Kenya but derived from three different cultivars.
 
