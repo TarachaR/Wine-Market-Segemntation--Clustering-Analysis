@@ -13,7 +13,8 @@
 ---
 
 
-### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158458374-ba186298-d2d1-4939-95ba-18f2724ab321.png"> Table of Contents
+### <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/181009037-fbc96d03-d85b-407d-a5fb-819f014f3613.gif"> Table of Contents
+
 - [Background Information](#background-information)
 - [Understanding The Context](#understanding-the-context)
 - [Project Deliverable](#project-deliverable)
