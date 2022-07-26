@@ -1,9 +1,11 @@
 # Wine Market Segmentation using Clustering Analysis
 ---
 
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158457509-4b57ccdf-6655-496e-9211-a8496d1b8a20.png">Author: Richard Taracha
 
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158457828-695f9267-d911-4d80-9ad9-708bad9c307e.png">Date: 09/02/2021
+
+> <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/181012159-edb41732-d12a-48c0-8076-6aa676dba5d8.gif">Author: Richard Taracha
+
+> <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/158457828-695f9267-d911-4d80-9ad9-708bad9c307e.png">Date: 09/02/2021
 <!-- Alignment options!!!!! -->
 <!-- <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157052122-4ee576cf-9a9a-4bc6-8a0f-c0eed0c67e75.gif"> -->
 <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif">
