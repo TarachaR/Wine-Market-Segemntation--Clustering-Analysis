@@ -3,9 +3,10 @@
 
 
 
-> <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/181012159-edb41732-d12a-48c0-8076-6aa676dba5d8.gif">Author: Richard Taracha
+> <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/215282366-dcc98965-bf52-413a-9b0d-4bacaa8e36ab.svg">Author: Richard Taracha
+<br>
 
-> <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/158457828-695f9267-d911-4d80-9ad9-708bad9c307e.png">Date: 09/02/2021
+> <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/215282427-f14e3e48-168c-4ffe-a756-c85fdf5b528e.svg">Date: 09/02/2021
 <!-- Alignment options!!!!! -->
 <!-- <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157052122-4ee576cf-9a9a-4bc6-8a0f-c0eed0c67e75.gif"> -->
 <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif">
@@ -15,7 +16,7 @@
 ---
 
 
-### <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/181009037-fbc96d03-d85b-407d-a5fb-819f014f3613.gif"> Table of Contents
+> ### <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/67068918/215282622-b46b183c-45f3-47fc-a41d-9ed6847d5c05.svg"> Table of Contents
 
 - [Background Information](#background-information)
 - [Understanding The Context](#understanding-the-context)
@@ -126,3 +127,5 @@ We can also try removing outliers and highly correlated variables to see if it w
 - Website - https://richardtaracha.glitch.me/
 
 [Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
+
+
