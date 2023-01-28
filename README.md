@@ -3,10 +3,10 @@
 
 
 
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215282366-dcc98965-bf52-413a-9b0d-4bacaa8e36ab.svg">Author: Richard Taracha
+> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286849-146f5584-6faa-4bb1-b9f0-530c0d07fe9e.svg">Author: Richard Taracha
 <br>
 
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215282427-f14e3e48-168c-4ffe-a756-c85fdf5b528e.svg">Date: 09/02/2021
+> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286877-b8cdc116-ada6-4868-87f3-2c0bdc7120d2.svg">Date: 09/02/2021
 <!-- Alignment options!!!!! -->
 <!-- <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157052122-4ee576cf-9a9a-4bc6-8a0f-c0eed0c67e75.gif"> -->
 <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif">
@@ -16,7 +16,7 @@
 ---
 
 
-> ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215282622-b46b183c-45f3-47fc-a41d-9ed6847d5c05.svg"> Table of Contents
+> ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286955-36a4b67f-d9dd-4f5e-bdf2-0f1c1a1c8379.svg"> Table of Contents
 
 - [Background Information](#background-information)
 - [Understanding The Context](#understanding-the-context)
@@ -29,7 +29,7 @@
 
 ---
 
-## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158460288-d582eabe-0f82-421b-973f-ca0801cb0e9a.png">Background Information
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286724-3155a89b-2ff1-4c17-acd7-3c2bf217ca27.svg">Background Information
 Champagne Company is a leading wine company that specialises in the importation and distribution of premium and super-premium wines, champagnes and spirits within the East African region. The main goal of the company is to make the most exclusive brands of wine more accessible at an affordable price.
 
 The company wants to satisfy the growing local demand for specialised products and the ever-increasing tourism industry where guests don ́t want to settle for less.
