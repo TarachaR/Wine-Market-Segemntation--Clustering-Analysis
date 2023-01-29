@@ -50,7 +50,8 @@ As a Data Scientist working for this company, my task is to perform wine segment
 
 ---
 
-## Project Deliverable
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215317175-0ab3afa2-a95b-426e-9609-a4162da5df24.svg"> Project Deliverable
+
 Deliverable is a Python notebook with the Clustering Analysis.
 
 * Notebook name: Wine Market Segmentation using Cluster Analysis.ipynb
