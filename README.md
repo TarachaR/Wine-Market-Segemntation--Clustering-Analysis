@@ -61,19 +61,21 @@ Deliverable is a Python notebook with the Clustering Analysis.
 **Dataset URL:** https://bit.ly/2UBJERh
 
 **Dataset Attributes:**
-1) Alcohol
-2) Malic acid
-3) Ash
-4) Alcalinity of ash
-5) Magnesium
-6) Total phenols
-7) Flavanoids
-8) Nonflavanoid phenols
-9) Proanthocyanins
-10)Color intensity
-11)Hue
-12)OD280/OD315 of diluted wines
-13)Proline
+| Atrribute Name: |
+| --- |
+| Alcohol |
+| Malic Acid |
+| Ash |
+| Alcalinity of ash |
+| Magnesium |
+| Total phenols |
+| Flavanoids |
+| Nonflavanoid phenols |
+| Proanthocyanins |
+| Color intensity |
+| Hue |
+| OD280/OD315 of diluted wines |
+| Proline |
 
 [Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
