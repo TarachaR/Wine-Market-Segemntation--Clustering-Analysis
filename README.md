@@ -38,7 +38,7 @@ The company wants to satisfy the growing local demand for specialised products a
 
 As a Data Scientist working for this company, my task is to perform wine segmentation given the provided dataset(s). The dataset(s) is the result of a chemical analysis of wines grown in the same region in Kenya but derived from three different cultivars.
 
-#### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215316987-baf80271-70ca-4a8e-b570-02ef57991908.svg">Technologies and Tools
+> #### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215316987-baf80271-70ca-4a8e-b570-02ef57991908.svg">Technologies and Tools
 
 - Python
 - Pandas
@@ -50,7 +50,7 @@ As a Data Scientist working for this company, my task is to perform wine segment
 
 ---
 
-> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215317175-0ab3afa2-a95b-426e-9609-a4162da5df24.svg"> Project Deliverable
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215321259-5304af4d-b118-4e7c-8dc3-309e634a3316.svg"> Project Deliverable
 
 Deliverable is a Python notebook with the Clustering Analysis.
 
@@ -81,7 +81,7 @@ Deliverable is a Python notebook with the Clustering Analysis.
 
 ---
 
-## Recording the Experimental Design
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215321556-6ef46d5f-820c-46ec-8269-31f128dfff86.svg"> Recording the Experimental Design
 * Define the Research Question
 * Data Importation
 * Data Exploration
@@ -97,21 +97,21 @@ Deliverable is a Python notebook with the Clustering Analysis.
 
 ---
 
-## Summary Of Findings
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215325054-34346984-7411-4a50-84cf-bda22b37c5f3.svg"> Summary Of Findings
 * We see that using k=3 is the best parameter to set when performing clustering on this dataset.
 
 [Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
-## Recommendations / Conclusions
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215325524-67b86dde-f6e5-4c7e-9838-8fec84cbf228.svg"> Recommendations / Conclusions
 While the two clustering models performed fairly well, I recommend further analysis and modeling to improve the solution until clear cluster boundaries are established.
 
 [Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
 
 ---
 
-## Challenging your Solution
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215325753-8bf5a188-2796-40a2-b41d-760613812085.svg"> Challenging your Solution
 Try out other clustering algorithms to see if they will improve the solution. Like:
 
 * Affinity Propagation
