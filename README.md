@@ -34,11 +34,11 @@ Champagne Company is a leading wine company that specialises in the importation 
 
 The company wants to satisfy the growing local demand for specialised products and the ever-increasing tourism industry where guests don ́t want to settle for less.
 
-## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158460676-7352afe1-8cda-4eab-9e6c-d2b76452b7f2.png">Understanding The Context
+> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215316893-61a27805-8f0b-4cea-9e86-cce37aa822c6.svg">Understanding The Context
 
 As a Data Scientist working for this company, my task is to perform wine segmentation given the provided dataset(s). The dataset(s) is the result of a chemical analysis of wines grown in the same region in Kenya but derived from three different cultivars.
 
-#### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Technologies and Tools
+#### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215316987-baf80271-70ca-4a8e-b570-02ef57991908.svg">Technologies and Tools
 
 - Python
 - Pandas
@@ -127,5 +127,4 @@ We can also try removing outliers and highly correlated variables to see if it w
 - Website - https://richardtaracha.glitch.me/
 
 [Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
-
 
