@@ -1,13 +1,12 @@
+<a name="top"></a>
 # Wine Market Segmentation using Clustering Analysis
 ---
 
 
 
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286849-146f5584-6faa-4bb1-b9f0-530c0d07fe9e.svg">Author: Richard Taracha
+> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286849-146f5584-6faa-4bb1-b9f0-530c0d07fe9e.svg">**Author:** Richard Taracha
 
-<br>
-
-> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286877-b8cdc116-ada6-4868-87f3-2c0bdc7120d2.svg">Date: 09/02/2021
+> <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286877-b8cdc116-ada6-4868-87f3-2c0bdc7120d2.svg"> **Date:** 09/02/2021
 <!-- Alignment options!!!!! -->
 <!-- <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157052122-4ee576cf-9a9a-4bc6-8a0f-c0eed0c67e75.gif"> -->
 <img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif">
@@ -18,14 +17,10 @@
 
 > ### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286955-36a4b67f-d9dd-4f5e-bdf2-0f1c1a1c8379.svg"> Table of Contents
 
-- [Background Information](#background-information)
-- [Understanding The Context](#understanding-the-context)
-- [Project Deliverable](#project-deliverable)
-- [Recording the Experimental Design](#recording-the-experimental-design)
-- [Summary Of Findings](#summary-of-findings)
-- [Recommendations](#summary-of-findings)
-- [Challenging your Solution](#challenging-your-solution)
-- [Author Information](#author-information)
+- Background Information]
+- Understanding The Context
+- Project Deliverable
+- Recording the Experimental Design
 
 ---
 
@@ -34,29 +29,21 @@ Champagne Company is a leading wine company that specialises in the importation 
 
 The company wants to satisfy the growing local demand for specialised products and the ever-increasing tourism industry where guests don ́t want to settle for less.
 
+---
+
 > ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215316893-61a27805-8f0b-4cea-9e86-cce37aa822c6.svg">Understanding The Context
 
 As a Data Scientist working for this company, my task is to perform wine segmentation given the provided dataset(s). The dataset(s) is the result of a chemical analysis of wines grown in the same region in Kenya but derived from three different cultivars.
 
-> #### <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215316987-baf80271-70ca-4a8e-b570-02ef57991908.svg">Technologies and Tools
+> #### Technologies and Tools: Python, Pandas, Numpy, Matplotlib, Scikit-Learn
 
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Scikit-Learn
-
-[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
+<p align="right"><a href="#top">Back to top</a></p>
 
 ---
 
 > ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215321259-5304af4d-b118-4e7c-8dc3-309e634a3316.svg"> Project Deliverable
 
 Deliverable is a Python notebook with the Clustering Analysis.
-
-* Notebook name: Wine Market Segmentation using Cluster Analysis.ipynb
-
-**Dataset name:** wine-clustering.csv
 
 **Dataset URL:** https://bit.ly/2UBJERh
 
@@ -77,7 +64,7 @@ Deliverable is a Python notebook with the Clustering Analysis.
 | OD280/OD315 of diluted wines |
 | Proline |
 
-[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
+<p align="right"><a href="#top">Back to top</a></p>
 
 ---
 
@@ -93,41 +80,8 @@ Deliverable is a Python notebook with the Clustering Analysis.
 * Recommendations / Conclusion
 * Challenging your Solution
 
-[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
+<p align="right"><a href="#top">Back to top</a></p>
 
 ---
-
-> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215325054-34346984-7411-4a50-84cf-bda22b37c5f3.svg"> Summary Of Findings
-* We see that using k=3 is the best parameter to set when performing clustering on this dataset.
-
-[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
-
----
-
-> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215325524-67b86dde-f6e5-4c7e-9838-8fec84cbf228.svg"> Recommendations / Conclusions
-While the two clustering models performed fairly well, I recommend further analysis and modeling to improve the solution until clear cluster boundaries are established.
-
-[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
-
----
-
-> ## <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215325753-8bf5a188-2796-40a2-b41d-760613812085.svg"> Challenging your Solution
-Try out other clustering algorithms to see if they will improve the solution. Like:
-
-* Affinity Propagation
-* Birch Clustering
-* DBSCAN Clustering
-
-We can also try removing outliers and highly correlated variables to see if it will improve the model.
-
-[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
-
----
-
-## Author Information
-
-- Twitter - https://twitter.com/Vycellous_Drum
-- Website - https://richardtaracha.glitch.me/
-
-[Back To The Top](#Wine-Market-Segmentation-using-Clustering-Analysis)
+<h3 align="center">Made with ❤️ by Richard Taracha</h3>
 
